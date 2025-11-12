@@ -1,4 +1,0 @@
---patch-module
-env.sim=_
---add-reads
-env.sim=ALL-UNNAMED
