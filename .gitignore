@@ -20,6 +20,7 @@
 *.rar
 
 !libs/
+
 # IntelliJ IDEA
 *.idea/
 target/
